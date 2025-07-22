@@ -71,14 +71,14 @@ git clone https://github.com/JWhiteUX/WhatTheDHCP.git
 cd WhatTheDHCP
 ```
 
-1. **Make scripts executable:**
+2. **Make scripts executable:**
 
 ```bash
 chmod +x dhcp_discovery.py
 chmod +x network_analyzer.sh
 ```
 
-1. **Install optional dependencies:**
+3. **Install optional dependencies:**
 
 ```bash
 # macOS
